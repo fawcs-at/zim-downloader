@@ -18,4 +18,4 @@ The start-script can be used to rebuild the library based on the synced ZIM file
 By default the server will spawn on port 8888 (can be configured in the script). However - please make sure that the port is allowed on your firewall (e.g. `firewall-cmd --add-port=8888/tcp; firewall-cmd --add-port=8888/tcp --permanent;`)
 
 ### Attention:
-:warning: The startscript uses the [kiwix-tools](https://github.com/kiwix/kiwix-tools) [binaries](https://download.kiwix.org/release/kiwix-tools/) and has the path hardcoded. That path most probably needs to be adapted to whatever is used by you!
+:warning: The startscript uses the [kiwix-tools](https://github.com/kiwix/kiwix-tools) ([binaries](https://download.kiwix.org/release/kiwix-tools/)) and has the path hardcoded. That path most probably needs to be adapted to whatever is used by you!
