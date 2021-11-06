@@ -9,7 +9,7 @@ The "./calcDownloadSize.sh" shell script can be used to estimate the total size 
 A list of all zim-packages can be found in the official [Kiwix-Wiki](https://wiki.kiwix.org/wiki/Content_in_all_languages).
 The files linked on this website will also alway point ot the most recent zim-package.
 
-zim packgages that shall be downloaded have to be enterd in the "files_direct.txt". The # symbol can be used to comment out a line.
+zim packgages that shall be downloaded have to be enterd in the "files_direct.txt". The `#` symbol can be used to comment out a line.
 
 
 The Kiwix package itself to host a local server that makes the zim-packages available must be obtained form the official [Kiwix-website](https://www.kiwix.org/en/download/).
