@@ -1,0 +1,4 @@
+./torrent/*
+*.zim*
+./sha256/
+*.swp
