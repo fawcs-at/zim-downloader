@@ -56,7 +56,7 @@ https://download.kiwix.org/zim/coffee.stackexchange.com_en_all.zim
 https://download.kiwix.org/zim/cooking.stackexchange.com_en_all.zim
 https://download.kiwix.org/zim/courses.lumenlearning.com_en_all.zim
 https://download.kiwix.org/zim/crafts.stackexchange.com_en_all.zim
-https://download.kiwix.org/zim/crashcourse_en_all.zim
+#https://download.kiwix.org/zim/crashcourse_en_all.zim
 https://download.kiwix.org/zim/crypto.stackexchange.com_en_all.zim
 https://download.kiwix.org/zim/devops.stackexchange.com_en_all.zim
 https://download.kiwix.org/zim/earthscience.stackexchange.com_en_all.zim

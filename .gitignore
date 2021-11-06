@@ -2,3 +2,4 @@
 *.zim*
 ./sha256/
 *.swp
+library.xml
